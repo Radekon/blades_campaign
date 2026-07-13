@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Kampania/01 Bohaterowie/Agrael/","tags":["gardenEntry"],"dg-note-properties":{"Typ":"Bohaterowie","Gracz":"Mikołaj","Księga":"Pijawka","Szajka":"[[Spisani]]","Dziedzictwo":"Tycheros","Przeszłość":"Fachowiec","Słabość":"Zobowiązanie","tagi":["bohater","sezon-2"]}}
+{"dg-publish":true,"permalink":"/Kampania/01 Bohaterowie/Agrael/","dg-note-properties":{"Typ":"Bohaterowie","Gracz":"Mikołaj","Księga":"Pijawka","Szajka":"[[Spisani]]","Dziedzictwo":"Tycheros","Przeszłość":"Fachowiec","Słabość":"Zobowiązanie","tagi":["bohater","sezon-2"]}}
 ---
 
 # Agrael
