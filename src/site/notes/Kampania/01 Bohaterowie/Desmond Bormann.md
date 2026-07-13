@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kampania/01-bohaterowie/desmond-bormann/","dg-note-properties":{"Typ":"Bohaterowie","Gracz":"Czarek","Księga":"Pająk","Szajka":"[[Spisani]]","Dziedzictwo":"Wyspy Sztyletowe","Przeszłość":"Fachowiec","Słabość":"Ekscentryzm","tagi":["bohater","sezon-1","sezon-2"]}}
+{"dg-publish":true,"permalink":"/kampania/01-bohaterowie/desmond-bormann/","tags":["gardenEntry"],"dg-note-properties":{"Typ":"Bohaterowie","Gracz":"Czarek","Księga":"Pająk","Szajka":"[[Spisani]]","Dziedzictwo":"Wyspy Sztyletowe","Przeszłość":"Fachowiec","Słabość":"Ekscentryzm","tagi":["bohater","sezon-1","sezon-2"]}}
 ---
 
 # Desmond Bormann
