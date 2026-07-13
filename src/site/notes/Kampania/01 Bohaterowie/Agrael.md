@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/Kampania/01 Bohaterowie/Agrael/","dg-note-properties":{"Typ":"Bohaterowie","Gracz":"Mikołaj","Księga":"Pijawka","Szajka":"[[Spisani]]","Dziedzictwo":"Tycheros","Przeszłość":"Fachowiec","Słabość":"Zobowiązanie","tagi":["bohater","sezon-2"]}}
+{"dg-publish":true,"permalink":"/Kampania/01 Bohaterowie/Agrael/","noteIcon":"","dg-note-properties":{"Typ":"Bohaterowie","Gracz":"Mikołaj","Księga":"Pijawka","Szajka":"[[Spisani]]","Dziedzictwo":"Tycheros","Przeszłość":"Fachowiec","Słabość":"Zobowiązanie","tagi":["bohater","sezon-2"]}}
 ---
 
 # Agrael
 
-> Uciekinier z Tycherosjańskich ziem, który znalazł w szajce cel — przynajmniej dopóki nie odnajdzie Aneiry.
+> Uciekinier z Tycherosjańskich ziem, który znalazł w szajce cel - przynajmniej dopóki nie odnajdzie Aneiry.
 
-*Do uzupełnienia — 2-4 zdania opisowe.*
+*Do uzupełnienia - 2-4 zdania opisowe.*
 
 ## Wygląd
 
