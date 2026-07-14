@@ -7,21 +7,15 @@ body {
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
+    ***/
 
     /* Zastosowanie czcionki Alegreya dla całego ciała strony i wszystkich elementów tekstowych */
     font-family: 'Alegreya', Georgia, serif !important;
-    
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
 }
+
 /***
   2. DODATKOWE ZABEZPIECZENIE (nadpisuje nagłówki poza sekcją body, jeśli to konieczne)
 ***/
 h1, h2, h3, h4, h5, h6, p, span, li, a, code, blockquote {
     font-family: 'Alegreya', Georgia, serif !important;
+}
