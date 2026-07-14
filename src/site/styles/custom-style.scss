@@ -1,8 +1,17 @@
+/***
+  1. IMPORT CZCIONKI (musi być na samym początku pliku!)
+***/
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400..900;1,400..900&display=swap');
+
 body {
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
+
+    /* Zastosowanie czcionki Alegreya dla całego ciała strony i wszystkich elementów tekstowych */
+    font-family: 'Alegreya', Georgia, serif !important;
+    
     //  background-color: white;
     //  .content {
     //   font-size: 14px;
@@ -11,3 +20,8 @@ body {
     //   color: black;
     //  }
 }
+/***
+  2. DODATKOWE ZABEZPIECZENIE (nadpisuje nagłówki poza sekcją body, jeśli to konieczne)
+***/
+h1, h2, h3, h4, h5, h6, p, span, li, a, code, blockquote {
+    font-family: 'Alegreya', Georgia, serif !important;
