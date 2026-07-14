@@ -28,7 +28,7 @@ Regularny partner operacyjny w sezonie drugim.
 Regularny partner operacyjny w sezonie drugim.
 
 ### [[Kampania/01 Bohaterowie/Olivia\|Olivia]]
-*Do uzupełnienia — charakter relacji.*
+*Do uzupełnienia - charakter relacji.*
 
 ## Historia
 
@@ -42,9 +42,9 @@ Regularny partner operacyjny w sezonie drugim.
 - Wraca z grupą do spalonego namiotu w [[Kampania/03 Lokacje/Jedwabny Brzeg\|Jedwabnym Brzegu]] po nieudanym zamachu na [[Kampania/02 Postacie Niezależne/Mr. Blu\|Mr. Blu]]. Obecny gdy [[Kampania/02 Postacie Niezależne/Karmazynowy Okularnik\|Karmazynowy Okularnik]] zostawia groźbę dla całej szajki.
 
 ### [[Kampania/06 Sesje/02 - Ucisk pętli/02-12 - Brzemię klątwy\|02-12 - Brzemię klątwy]]
-- Mimo wątpliwości wraca do szajki kierowany chęcią odnalezienia zaginionej [[Kampania/02 Postacie Niezależne/Aneira\|Aneiry]]. Grupa trafia do Lombardu w [[Kampania/03 Lokacje/Charłakowa Jama\|Charłakowej Jamie]] w celu odprawienia rytuału — miejsce skrywa stare klątwy i przeklętą przeszłość.
+- Mimo wątpliwości wraca do szajki kierowany chęcią odnalezienia zaginionej [[Kampania/02 Postacie Niezależne/Aneira\|Aneiry]]. Grupa trafia do Lombardu w [[Kampania/03 Lokacje/Charłakowa Jama\|Charłakowej Jamie]] w celu odprawienia rytuału - miejsce skrywa stare klątwy i przeklętą przeszłość.
 
 ## Traumy i blizny
 
-- **Zaginięcie Aneiry** — utrata bliskiej osoby stanowi otwarty motyw działania Agraela w sezonie drugim. Nawiązanie: [[Kampania/06 Sesje/02 - Ucisk pętli/02-12 - Brzemię klątwy\|02-12 - Brzemię klątwy]].
-- **Towarzyszka w krytycznym stanie** — postać z otoczenia Agraela walczy o życie; szczegóły do uzupełnienia. Nawiązanie: [[Kampania/06 Sesje/02 - Ucisk pętli/02-10 - Huśtająca się kołyska\|02-10 - Huśtająca się kołyska]].
+- **Zaginięcie Aneiry** - utrata bliskiej osoby stanowi otwarty motyw działania Agraela w sezonie drugim. Nawiązanie: [[Kampania/06 Sesje/02 - Ucisk pętli/02-12 - Brzemię klątwy\|02-12 - Brzemię klątwy]].
+- **Towarzyszka w krytycznym stanie** - postać z otoczenia Agraela walczy o życie; szczegóły do uzupełnienia. Nawiązanie: [[Kampania/06 Sesje/02 - Ucisk pętli/02-10 - Huśtająca się kołyska\|02-10 - Huśtająca się kołyska]].

@@ -6,7 +6,7 @@
 
 > 
 
-*Do uzupełnienia — 2-4 zdania opisowe.*
+*Do uzupełnienia - 2-4 zdania opisowe.*
 
 ## Wygląd
 
@@ -39,7 +39,7 @@
 - Uczestniczy w rytuale egzorcyzmu; walka z widmem [[Kampania/02 Postacie Niezależne/Kapitan Andre\|kapitana Andre]] okazuje się bardziej skomplikowana niż zakładano.
 
 ### [[Kampania/06 Sesje/01 - Pierwsze kroki w półświatku/01-16 - Łatanie dziur\|01-16 - Łatanie dziur]]
-- Bada możliwości duszy zaklętej w kompasie — pierwsze bezpośrednie wskazanie na nieznany dotąd potencjał przedmiotu.
+- Bada możliwości duszy zaklętej w kompasie - pierwsze bezpośrednie wskazanie na nieznany dotąd potencjał przedmiotu.
 
 ### [[Kampania/06 Sesje/01 - Pierwsze kroki w półświatku/01-19 - Abordaż\|01-19 - Abordaż]]
 - Uczestniczy w przeprawie za barierę i walce o stracony statek w finale sezonu pierwszego.
@@ -49,5 +49,5 @@
 
 ## Traumy i blizny
 
-- **Eksplozja Starego Północnego Fortu** — Desmond znajdował się w pobliżu wybuchu; konsekwencje fizyczne i psychiczne do uzupełnienia. Nawiązanie: [[Kampania/06 Sesje/02 - Ucisk pętli/02-03 - Wyjście z głębin\|02-03 - Wyjście z głębin]].
-- **Dusza w kompasie** — Kompas Desmonda zawiera zaklętą duszę o nieznanych możliwościach; ciężar tego odkrycia do uzupełnienia. Nawiązanie: [[Kampania/06 Sesje/01 - Pierwsze kroki w półświatku/01-16 - Łatanie dziur\|01-16 - Łatanie dziur]].
+- **Eksplozja Starego Północnego Fortu** - Desmond znajdował się w pobliżu wybuchu; konsekwencje fizyczne i psychiczne do uzupełnienia. Nawiązanie: [[Kampania/06 Sesje/02 - Ucisk pętli/02-03 - Wyjście z głębin\|02-03 - Wyjście z głębin]].
+- **Dusza w kompasie** - Kompas Desmonda zawiera zaklętą duszę o nieznanych możliwościach; ciężar tego odkrycia do uzupełnienia. Nawiązanie: [[Kampania/06 Sesje/01 - Pierwsze kroki w półświatku/01-16 - Łatanie dziur\|01-16 - Łatanie dziur]].
